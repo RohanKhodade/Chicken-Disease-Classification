@@ -27,7 +27,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "test.py"
+    "templates/index.html"
 ]
 
 # Create the folders and files inside project 2

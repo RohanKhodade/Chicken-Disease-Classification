@@ -1,0 +1,8 @@
+dvc
+python-box
+pyYAML
+ensure
+joblib
+types-pyYAML
+scipy
+-e .
